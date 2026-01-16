@@ -1,0 +1,97 @@
+Here’s a clean, professional README.md you can use for your Netflix Clone project:
+
+
+---
+
+🎬 Netflix Clone (HTML & CSS)
+
+This project is a front-end clone of the Netflix landing page built using pure HTML5 and CSS3. The goal of this project was to practice modern UI design, layout structuring, and responsive web development while closely replicating the look and feel of Netflix’s homepage.
+
+🚀 Features
+
+Pixel-inspired Netflix UI design
+
+Fully responsive layout for desktop and mobile
+
+Navigation bar with logo and action buttons
+
+Hero section with background banner and call-to-action
+
+Movie/series rows styled using Flexbox
+
+Clean and well-structured code
+
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3 (Flexbox, Grid, Media Queries)
+
+Google Fonts
+
+
+🖼️ Assets
+
+All visual assets used in this project are for educational purposes only:
+
+Netflix logo (SVG/PNG)
+
+Background banner images
+
+Movie poster thumbnails
+
+Icons (play, info, search, etc.)
+
+
+Assets were sourced from:
+
+Official Netflix media resources
+
+Free image platforms (like Unsplash / Pexels)
+
+Icon libraries (such as Font Awesome or similar)
+
+
+> Note: This project is not intended for commercial use and does not claim ownership of any Netflix branding or media.
+
+
+
+📁 Folder Structure
+
+Netflix-Clone/
+│
+├── index.html
+├── style.css
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── logos/
+└── README.md
+
+🎯 Purpose
+
+This project was created to:
+
+Improve HTML & CSS skills
+
+Understand layout replication of real-world websites
+
+Practice responsive design techniques
+
+Build a portfolio-worthy UI project
+
+
+📌 Future Improvements
+
+Add JavaScript for carousel scrolling
+
+Implement hover animations
+
+Create login and profile selection pages
+
+Add dynamic content loading
+
+
+
+---
